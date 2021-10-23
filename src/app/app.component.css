@@ -1,0 +1,7 @@
+.center {
+    display: flex;
+    justify-content: center;
+}
+#canvas {
+    background-color: rgb(144, 94, 12);
+}
